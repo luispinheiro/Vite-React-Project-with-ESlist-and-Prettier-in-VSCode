@@ -11,9 +11,9 @@ Currently, two official plugins are available:
 
 https://vitejs.dev/guide/
 
-![Alt text](image.png)
+![Alt text](readme/image.png)
 
-![Alt text](image-1.png)
+![Alt text](readme/image-1.png)
 
 ## Terminal Step by Step Vite and React
 
